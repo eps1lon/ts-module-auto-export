@@ -1,0 +1,13 @@
+{
+  "name": "ts-module-auto-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "eps1lon <silbermann.sebastian@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "typescript": "^5.5.0-dev.20240313"
+  }
+}
